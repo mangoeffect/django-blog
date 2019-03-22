@@ -1,2 +1,3 @@
 # django-blog
-django开发个人博客
+
+a blog base on django
